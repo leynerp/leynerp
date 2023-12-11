@@ -4,6 +4,10 @@
 Habilidades: HTML | CSS | JAVASCRIPT | PHP TYPESCRIPT | NODEJS | EXPRESS SEQUELIZE | ANGULARJS | REACT ANGULAR | BOOSTRAP | MATERIAL UI | ANT DESIGN | NESTJS | NEXTJS VITE, VITE-TEST | REDUXTK | ZUSTAND | JAVA | SPRING BOOT | SPRING CLOUD, SPRING DATA | SPRING SECURITY | HIBERNATE | POSTGRESSQL | MYSQL | MONGODB ALFRESCO | APACHE KAFKA | DOCKER | JENKINS | JUNIT | MOCKITO | RUP | SCRUM | J IRA
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynerp)](https://github.com/leynerp/github-readme-stats)
+
+
+
 
 
 
